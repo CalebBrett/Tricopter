@@ -3,8 +3,8 @@ The goal of this project it to build a tricopter which can fly around and then l
 
 So far I am still working on the flight control system to allow the drone to hover in one place.
 
-![Current build](/firstIteration1.png)
-![Current build](/firstIteration2.png)
+![Current build](/firstIteration1.jpg)
+![Current build](/firstIteration2.jpg)
 
 ## Progress
 - [x] Research tricopters, types of batteries, types of motors, how to use ESC's
