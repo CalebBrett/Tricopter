@@ -14,7 +14,7 @@ So far I am still working on the flight control system to allow the drone to hov
 - [x] Solder all components together
 - [x] Assemble frome and add components
 - [x] Ensure the raspberry pi can run on the stand-alone power from the Li-Po battery 
-- [X] Ensure the motors can be controled with a python script running on the raspberry pi
+- [x] Ensure the motors can be controled with a python script running on the raspberry pi
 - [x] Ensure the program can read the accelerometer data and adjust the motor speeds
 - [x] Test motors at various speeds: can take off but then tilts and crashes
 - [ ] Improve stability by upgrading the auto-balance thread and checking center of mass
