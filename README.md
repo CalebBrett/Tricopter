@@ -24,7 +24,7 @@ So far I am still working on the flight control system to allow the drone to hov
 - [ ] Program a landing sequence so it can land on a shoulder hook
 
 
-<h3 align="center"># Tricopter</h3>
+<h1 align="center">Tricopter</h1>
 
 <p align="center">
     The goal of this project it to build a tricopter which can fly around and then land on a persons shoulder and hook onto a shoulder pad.
@@ -43,8 +43,8 @@ So far I am still working on the flight control system to allow the drone to hov
   </ol>
 </details>
 
-![Current build](/firstIteration1.jpg) 
-![Current build](/firstIteration2.jpg)
+![](/firstIteration1.jpg) 
+![](/firstIteration2.jpg)
 
 ## Tools used:
 
