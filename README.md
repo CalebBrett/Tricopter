@@ -43,7 +43,6 @@ So far I am still working on the flight control system to allow the drone to hov
   </ol>
 </details>
 
-![](/firstIteration1.jpg) 
 ![](/firstIteration2.jpg)
 
 ## Tools used:
