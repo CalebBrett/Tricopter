@@ -48,10 +48,10 @@ So far I am still working on the flight control system to allow the drone to hov
 ## Tools used:
 
 ## Progress
--[x] Done
-[x] To do
--[X] Done
-[X] To do
+:white_check_mark: Done
+:heavy_check_mark: To do
+:heavy_check_mark: Done
+:heavy_check_mark: To do
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
