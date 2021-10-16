@@ -42,7 +42,7 @@ So far I am still working on the flight control system to allow the drone to hov
 
 ![][main_image]
 
-## Tools used:
+## Tools used
 
 ## Design
 ![][design_image]
