@@ -48,8 +48,10 @@ So far I am still working on the flight control system to allow the drone to hov
 ## Tools used:
 
 ## Progress
-- [x] Done
-- [ ] To do
+-[x] Done
+[x] To do
+-[X] Done
+[X] To do
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
