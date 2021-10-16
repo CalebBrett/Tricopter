@@ -34,7 +34,7 @@ So far I am still working on the flight control system to allow the drone to hov
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Tools used:">Tools used:</a></li>
+    <li><a href="#tools-used">Tools used</a></li>
     <li><a href="#Progress">Progress</a></li>
   </ol>
 </details>
