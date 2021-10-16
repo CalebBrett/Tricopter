@@ -36,12 +36,16 @@ So far I am still working on the flight control system to allow the drone to hov
   <ol>
     <li><a href="#tools-used">Tools used</a></li>
     <li><a href="#Progress">Progress</a></li>
+    <li><a href="#Design">Design</a></li>
   </ol>
 </details>
 
 ![][main_image]
 
 ## Tools used:
+
+## Design
+![][design_image]
 
 ## Progress
 :white_check_mark: Done\
@@ -52,3 +56,4 @@ So far I am still working on the flight control system to allow the drone to hov
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [main_image]: /firstIteration2.jpg
+[design_image]: /design.jpg
