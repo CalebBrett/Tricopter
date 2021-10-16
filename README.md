@@ -34,27 +34,21 @@ So far I am still working on the flight control system to allow the drone to hov
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Tools used:">Tools used:</a></li>
+    <li><a href="#Progress">Progress</a></li>
   </ol>
 </details>
 
-![](/firstIteration2.jpg)
+![][main_image]
 
 ## Tools used:
 
 ## Progress
-- :white_check_mark: Done
-- :heavy_check_mark: To do
-- :white_large_square: Done
-- :black_square_button: To do
+:white_check_mark: Done\
+:white_large_square: Done
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[main_image]: /firstIteration2.jpg
